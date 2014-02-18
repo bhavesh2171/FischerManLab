@@ -5,5 +5,13 @@
 	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
 	<classpathentry kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="lib" path="libs/google-http-client-1.16.0-rc.jar"/>
+	<classpathentry kind="lib" path="libs/google-http-client-android-1.16.0-rc.jar"/>
+	<classpathentry kind="lib" path="libs/google-http-client-gson-1.16.0-rc.jar"/>
+	<classpathentry kind="lib" path="libs/gson-2.1.jar"/>
+	<classpathentry kind="lib" path="libs/guava-14.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/kinvey-android-lib-2.6.14.jar"/>
+	<classpathentry kind="lib" path="libs/kinvey-java-2.6.14.jar"/>
+	<classpathentry kind="lib" path="libs/google-play-services.jar"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
