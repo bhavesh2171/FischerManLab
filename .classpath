@@ -13,5 +13,7 @@
 	<classpathentry kind="lib" path="libs/kinvey-android-lib-2.6.14.jar"/>
 	<classpathentry kind="lib" path="libs/kinvey-java-2.6.14.jar"/>
 	<classpathentry kind="lib" path="libs/google-play-services.jar"/>
+	<classpathentry kind="lib" path="libs/signpost-commonshttp4-1.2.1.1.jar"/>
+	<classpathentry kind="lib" path="libs/signpost-core-1.2.1.1.jar"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
